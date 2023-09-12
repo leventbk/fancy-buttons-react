@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import AngryButton from './components/AngryButton';
 
 function App() {
   return (
     <div className="App">
-
+      <AngryButton/>
     </div>
   );
 }
