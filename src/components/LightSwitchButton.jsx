@@ -1,7 +1,6 @@
-import React, { useState } from 'react'; //optional
+// import React, { useState } from 'react'; //optional
 
-function LightSwitchButton() {
-  const [light, setLight] = useState(false);
+function LightSwitchButton({light, setLight}) {
 
   const changeLight = () => {
     setLight(!light);
