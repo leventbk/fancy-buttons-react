@@ -1,3 +1,5 @@
+import React from 'react'; //optional
+
 function TextRepeaterButton() {
   return (
     <button className="TextRepeaterButton">

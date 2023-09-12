@@ -1,3 +1,5 @@
+import React from 'react'; //optional
+
 function CounterButton() {
   return (
     <button className="CounterButton">
