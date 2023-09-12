@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1>Fancy Buttons!</h1>
       <section>
-        <AngryButton/>
+        <AngryButton />
         <CounterButton/>
         <LightSwitchButton/>
         <TextRepeaterButton/>
